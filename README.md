@@ -1,7 +1,7 @@
 # Class 26: Intro to Django
 
 ## Open Git Pull Requests  
-- []()  
+- [https://github.com/joseph-zabaleta/django_intro/pull/1](https://github.com/joseph-zabaleta/django_intro/pull/1)  
 
 ---
 
